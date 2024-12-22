@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Замените на токен вашего бота
-BOT_TOKEN = "6804594259:AAEu03onfNbMDd4HmS9-QvuWcOqxLfQl--I"
+BOT_TOKEN = "ВАШ_ТОКЕН" #введите ваш токен
 # Путь к фоновому изображению
 BACKGROUND_IMAGE = "rek.png"  # замените, если нужно
 ALPHA = 0.7
